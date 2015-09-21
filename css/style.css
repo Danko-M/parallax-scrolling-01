@@ -11,6 +11,9 @@ div {
     opacity: 0;
     font-size: 30px;
 }
+img {
+    margin-top: -200px;
+}
 
 .ole {
     top: auto;
